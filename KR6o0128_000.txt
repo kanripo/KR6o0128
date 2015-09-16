@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 勸發諸王要偈
+#+DATE: 2015-08-30 21:01:21.247196
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6o0128
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+酄
