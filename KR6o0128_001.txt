@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:21.038616
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:58
 #+TITLE: 勸發諸王要偈
 #+PROPERTY: CBETA_ID T32n1673
 #+PROPERTY: ID KR6o0128
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1673
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0128_T_000-0748a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0128_T_001-0748a> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1673[Nos.1672,1674]¶
-
- 勸發諸王要偈¶
+No. 1673 [Nos. 1672, 1674]¶
+勸發諸王要偈¶
 ¶
 龍樹菩薩撰¶
 宋天竺三藏僧伽跋摩譯¶
@@ -103,9 +102,9 @@ No.1673[Nos.1672,1674]¶
 　若說超煩惱
 　初人則為勝¶
 　改惡修慈忍
-　第三則為上
+　第三則為上」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　最勝說眾生
@@ -156,9 +155,9 @@ No.1673[Nos.1672,1674]¶
 　穿漏難可滿
 　薄皮隱不淨¶
 　愚者為所欺
-　智士當厭離
+　智士當厭離」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　如人病疥虫
@@ -196,14 +195,14 @@ No.1673[Nos.1672,1674]¶
 　智慧有慚愧¶
 　佛說不共財
 　餘財一切共¶
-　博弈大聚會
+　博奕大聚會
 　懶惰習惡友¶
 　飲酒縱昏蕩
 　夜遊無羞恥¶
 　此六污名稱
-　智者應遠離
+　智者應遠離」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　知足為大財
@@ -451,9 +450,9 @@ No.1673[Nos.1672,1674]¶
 　身長若枯木
 　熾焰從口出¶
 　還自焚其身
-　狀燒多羅樹
+　狀燒多羅樹」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　處夏希夜涼
@@ -587,7 +586,7 @@ No.1673[Nos.1672,1674]¶
 　無量生死苦
 　度令至彼岸¶
 　緣此成佛道
-　究竟大涅槃
+　究竟大涅槃」
 #+END_VERSE
-」¶
+¶
 勸發諸王要偈
